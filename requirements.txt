@@ -1,0 +1,9 @@
+beautifulsoup4
+ipykernel
+numpy
+pandas
+playwright
+requests
+scipy
+seaborn
+statsmodels
